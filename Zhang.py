@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # largely from here
 # http://russeng.hatenablog.jp/entry/2015/06/16/004704
+# (caution) Japanese path fails!
 
 import numpy
 import cv2
